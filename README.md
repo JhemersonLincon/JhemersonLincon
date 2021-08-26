@@ -1,5 +1,5 @@
 - 👋 Olá, sou @JhemersonLincon
-- 👀 Estou interessado em vagas de front-end 
+- 👀 Estou interessado na área de front-end 
 - 🌱 Atualmente aprendendo Bootstrap e querendo aprender React
 - 📫 Pode me encontrar no twitter @linHoUseee 
 
