@@ -1,5 +1,5 @@
-- 👋 Olá, sou @JhemersonLincon,tenho 19 anos.
-- 👀 Estou interessado na área de front-end 
+- 👋 Olá, sou Lin,tenho 19 anos.
+- 👀 Atualmente interessado na área de front-end 
 - 🌱 Atualmente aprendendo Bootstrap e querendo aprender React
 - 📫 Pode me encontrar no twitter @linHoUseee 
 
