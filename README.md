@@ -1,7 +1,7 @@
 - 👋 Olá! sou Lin,tenho 19 anos.
 - 👀 Atualmente interessado na área de front-end 
 - 🌱 Atualmente aprendendo Bootstrap e querendo aprender React
-- 📫 Pode me encontrar no twitter @linHoUseee 
+- 📫 Pode me encontrar no twitter <a href="twitter.com">@linHoUseee </a>
 
 
 
