@@ -1,6 +1,7 @@
-- 👋 Olá! sou Lin,tenho 19 anos.
-- 👀 Atualmente interessado na área de front-end 
-- 🌱 Atualmente aprendendo Bootstrap e querendo aprender React
+- 👋 Olá! sou Lin,tenho 19 anos
+- 💻 Sou desenvolvedor  
+- ⚖️ sempre focado em desenvolver na area e como pessoa
+- 🌱 Focado em me crescer ainda mais em Front-End
 
 
 <div>
