@@ -6,7 +6,7 @@
 - 🌱 Focado em me crescer ainda mais em Front-End
 
 
-<img align="right" src="https://i.ibb.co/182DWKj/hallowen-img.png" alt="hallowen-img" border="0">
+
 <div>
   <a href="https://github.com/JhemersonLincon/JhemersonLincon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhemersonLincon&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -26,3 +26,4 @@
   <a href="https://www.linkedin.com/in/jhemerson-lincon-pereira-da-silva-3b73831b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
  
 </div>
+<img align="right" src="https://i.ibb.co/182DWKj/hallowen-img.png" alt="hallowen-img" border="0">
