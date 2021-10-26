@@ -1,17 +1,14 @@
 
   # BEM VINDO!
-
-
 - 👋 Olá! sou Lin,tenho 19 anos
 - 💻 Sou desenvolvedor  
 - ⚖️ sempre focado em desenvolver na area e como pessoa
 - 🌱 Focado em me crescer ainda mais em Front-End
 
 
-<img  align="right"  height="" src="https://i.ibb.co/3FT1n7s/hallowen.png?width=676&height=676" alt="hallowen" border="0">
 
 <div>
-  
+  <img align="right" src="https://i.ibb.co/182DWKj/hallowen-img.png" alt="hallowen-img" border="0">
   <a href="https://github.com/JhemersonLincon/JhemersonLincon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhemersonLincon&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhemersonLincon&layout=compact&langs_count=7&theme=chartreuse-dark"/>
