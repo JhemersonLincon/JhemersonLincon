@@ -1,3 +1,7 @@
+ <img src="https://i.ibb.co/3FT1n7s/hallowen.png"  align="right" width="300" alt="hallowen" border="0">
+
+
+
 - 👋 Olá! sou Lin,tenho 19 anos
 - 💻 Sou desenvolvedor  
 - ⚖️ sempre focado em desenvolver na area e como pessoa
