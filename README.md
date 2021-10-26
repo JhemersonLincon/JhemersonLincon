@@ -1,4 +1,4 @@
- <img src="https://i.ibb.co/3FT1n7s/hallowen.png"  align="right" width="300" alt="hallowen" border="0">
+
 
 
 
@@ -7,8 +7,9 @@
 - ⚖️ sempre focado em desenvolver na area e como pessoa
 - 🌱 Focado em me crescer ainda mais em Front-End
 
-
+ 
 <div>
+  <img src="https://i.ibb.co/3FT1n7s/hallowen.png"  align="right" height="450" width="300" alt="hallowen" border="0">
   <a href="https://github.com/JhemersonLincon/JhemersonLincon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhemersonLincon&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhemersonLincon&layout=compact&langs_count=7&theme=chartreuse-dark"/>
