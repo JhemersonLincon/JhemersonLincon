@@ -1,7 +1,7 @@
 
   # BEM VINDO!
-- 👋 Olá! sou Lin,tenho 19 anos
-- 💻 Sou desenvolvedor  
+- 👋 Olá! Eu sou Lincon
+- 💻 Sou desenvolvedor
 - ⚖️ sempre focado em desenvolver na area e como pessoa
 - 🌱 Focado em me crescer ainda mais em Front-End
 
