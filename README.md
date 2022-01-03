@@ -2,8 +2,8 @@
   # BEM VINDO!
 - 👋 Olá! Eu sou Lincon
 - 💻 Sou desenvolvedor
-- ⚖️ sempre focado em desenvolver na area e como pessoa
-- 🌱 Focado em me crescer ainda mais em Front-End
+- ⚖️ Atualmente estudando React e TypeScript
+- 🌱 Focado em crescer ainda mais em Front-End
 
 
 
