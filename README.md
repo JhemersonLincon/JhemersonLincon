@@ -1,6 +1,6 @@
 
   # BEM VINDO!
-- 👋 Olá! Eu sou Lincon
+- 👋 Olá! Eu sou Jhemerson Lincon
 - 💻 Desenvolvedor Front-End
 - ⚖️ Atualmente estudando React e TypeScript
 - 🌱 Focado em crescer ainda mais em Front-End
