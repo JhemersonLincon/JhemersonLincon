@@ -11,7 +11,7 @@
 ### 💡 Sobre mim
 
 - 🎓 Estudante de **Sistemas de Informação**
-- 🔍 Interessado em **Inteligência Artificial**, **Análise de Dados** e **Desenvolvimento Full Stack**
+- 🔍 Interessado em **Inteligência Artificial**, **Análise de Dados** e **Visão Computacional**
 - 📚 Em constante evolução, acreditando que a **melhor versão de mim ainda está sendo codada**
 
 ---
